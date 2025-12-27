@@ -1,8 +1,5 @@
 # 💫 About Me:
-👯 Open to collaborating on Operating System projects
-🤝 Actively seeking help with developing an OS from the ground up
-🌱 Currently learning Generative AI
-⚡ Fun fact: I love blending low-level OS concepts with modern AI ideas
+👯 Open to collaborating on Operating System projects 🤝 Actively seeking help with developing an OS from the ground up 🌱 Currently learning Generative AI ⚡ Fun fact: I love blending low-level OS concepts with modern AI ideas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-patel-155314255) 
