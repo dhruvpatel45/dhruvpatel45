@@ -1,16 +1,16 @@
 <!-- 🔥 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Systems+🚀" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Dhruv Patel  
 
-🚀 **Technical Program Management Enthusiast | Backend Developer | Problem Solver**
+🚀 **Technical Program Management Enthusiast | Backend Developer | System Thinker**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvpatel45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dhruvpatel45&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://visitcount.itsvg.in/api?id=dhruvpatel45&icon=5&color=6" />
 </p>
 
@@ -20,10 +20,10 @@
 
 - 💼 Technical Support Engineer Intern @ Emgage HRMS  
 - 🏆 **Rising Star – Best Performer of the Quarter**  
-- 🌱 Learning **Generative AI & System Design**  
-- ⚙️ Exploring **Operating Systems + AI integration**  
-- 🛠️ Building **automation tools & scalable backend systems**  
-- 🎯 Goal: Work on impactful, large-scale tech products  
+- 🌱 Learning **Generative AI, System Design & Scalable Systems**  
+- ⚙️ Exploring **AI + Operating Systems integration**  
+- 🛠️ Building **automation tools & backend systems**  
+- 🎯 Goal: Work on **large-scale impactful products (Google-level systems)**  
 
 ---
 
@@ -36,31 +36,27 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🧥 Cloth O’Clock
+### 🧥 Cloth O’Clock  
 - Full-stack clothing rental platform  
 - Led backend + APIs + team coordination  
 
-### ✈️ Flight Tracking System
+### ✈️ Flight Tracking System  
 - Real-time aircraft tracking using APIs  
 - Data processing with Python & SQL  
 
-### ⚙️ Multi-Database Query Tool
-- Execute queries across multiple databases  
-- CSV/Excel import-export + automation  
+### ⚙️ Multi-Database Query Tool  
+- Execute queries across multiple DBs  
+- Bulk operations + CSV/Excel automation  
 
 ---
 
-## 🔥 Top Repositories (Dynamic)
+## 🔥 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/dhruvpatel45">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock&theme=dark" />
-  </a>
-  <a href="https://github.com/dhruvpatel45">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock-Admin&theme=dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock-Admin&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -88,19 +84,27 @@
 
 ---
 
+## 🐍 Contribution Snake (Auto-Generated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhruvpatel45/dhruvpatel45/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 Rising Star – Best Performer of the Quarter  
 - ☁️ Google Cloud Skill Badges  
-- 👨‍💻 Active contributor & continuous learner  
+- 👨‍💻 Continuous learner & builder  
 
 ---
 
 ## ✨ Fun Side
 
-- 🤖 Interested in **AI + Operating Systems**  
-- ⚡ Love building tools that automate real problems  
+- 🤖 Interested in **AI + Systems Engineering**  
+- ⚡ Love building tools that **save time & scale efficiently**  
 
 ---
 
-⭐ **Let’s build something impactful together!**
+⭐ **Open to collaboration, internships, and impactful opportunities**
