@@ -55,9 +55,6 @@
 ## 🔥 Top Repositories
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Backend+Developer+and+System+Thinker;Building+Scalable+and+Impactful+Systems" />
-</p>
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvpatel45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel45&theme=tokyonight&hide_border=true" />
