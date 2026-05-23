@@ -1,13 +1,13 @@
 <!-- 🔥 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Full+-+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Systems+🚀" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Dhruv Patel  
 
-🚀 **Technical Program Management Enthusiast | Backend Developer | System Thinker**
+🚀 **Technical Program Management Enthusiast | Full-Stack Developer | System Thinker**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvpatel45&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -74,7 +74,7 @@
 </p>
 ---
 
-## 🐍 Contribution Snake (Auto-Generated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhruvpatel45/dhruvpatel45/output/snake.svg" alt="snake animation" />
