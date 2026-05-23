@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Full+-+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhruv+Patel;Technical+Program+Management+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Building+Scalable+Systems+🚀" />
 </p>
 
 ---
