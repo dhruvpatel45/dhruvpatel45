@@ -58,11 +58,11 @@
 
 <p align="center">
   <a href="https://github.com/dhruvpatel45/Cloth-o-clock">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock&theme=tokyonight&hide_border=true" />
   </a>
   
   <a href="https://github.com/dhruvpatel45/Cloth-o-clock-Admin">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock-Admin&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock-Admin&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
