@@ -54,15 +54,18 @@
 
 ## 🔥 Top Repositories
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvpatel45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel45&theme=tokyonight&hide_border=true" />
-</p>
+## 🔥 Top Repositories
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel45&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/dhruvpatel45/Cloth-o-clock">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
+  
+  <a href="https://github.com/dhruvpatel45/Cloth-o-clock-Admin">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock-Admin&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
 </p>
+
 
 ---
 
