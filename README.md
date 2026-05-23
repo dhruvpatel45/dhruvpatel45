@@ -56,14 +56,13 @@
 
 <p align="center">
   <a href="https://github.com/dhruvpatel45">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-O-Clock&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock&theme=dark" />
   </a>
   <a href="https://github.com/dhruvpatel45">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Flight-Tracking-System&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvpatel45&repo=Cloth-o-clock-Admin&theme=dark" />
   </a>
 </p>
 
-👉 Replace repo names with your actual repo names
 
 ---
 
