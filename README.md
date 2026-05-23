@@ -52,7 +52,6 @@
 
 ---
 
-## 🔥 Top Repositories
 
 ## 🔥 Top Repositories
 
