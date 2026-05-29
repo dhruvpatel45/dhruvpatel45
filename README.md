@@ -67,7 +67,7 @@
 ---
 
 ### ⚙️ Multi-Database Query Automation Tool *(@ Emgage HRMS)*
-> Python · SQL · CSV/Excel Automation
+> Express.js · Node.js · CSV/Excel Automation
 
 - Built a tool enabling parallel query execution across multiple databases
 - Supports bulk operations and CSV/Excel import-export — significantly reduced manual DB handling
