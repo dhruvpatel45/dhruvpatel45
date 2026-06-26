@@ -190,5 +190,5 @@
 ---
 
 <p align="center">
-  ⭐ <strong>Open to full-time roles, internships, and impactful collaborations</strong>
+  ⭐ <strong>Open to full-time roles and impactful collaborations</strong>
 </p>
