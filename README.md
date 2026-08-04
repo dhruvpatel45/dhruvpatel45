@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Dhruv+Patel+👋;Implementation+%26+Support+Engineer;Full+Stack+Developer+%7C+AI+%26+Automation;Building+Scalable+Software+🚀" />{=html}
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Dhruv+Patel+👋;Implementation+%26+Support+Engineer;Full+Stack+Developer+%7C+AI+%26+Automation;Building+Scalable+Software+🚀" />
 
 </p>
 
