@@ -158,26 +158,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvpatel45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://streak-stats.demolab.com?user=dhruvpatel45&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhruvpatel45/dhruvpatel45/output/snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -191,4 +171,4 @@
 
 <p align="center">
   ⭐ <strong>Open to full-time roles and impactful collaborations</strong>
-</p>"
+</p>
